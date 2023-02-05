@@ -37,7 +37,7 @@
                 tools:text="Название фильма 1" />
 
             <TextView
-                android:id="@+id/textView_two_one"
+                android:id="@+id/textView_one_two"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:maxLines="3"
@@ -75,7 +75,7 @@
             android:orientation="vertical">
 
             <TextView
-                android:id="@+id/textView_one_two"
+                android:id="@+id/textView_two_one"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
